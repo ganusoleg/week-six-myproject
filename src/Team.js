@@ -37,7 +37,7 @@ function Team() {
       </div>
 
       <div className="cont">
-        <img src={imageTwo} width="670px" height="400px" alt="photo"/>
+        <img src={imageTwo} width="670px" height="400px" alt="kartinka"/>
       </div>
 
       <div className="cont">

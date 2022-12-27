@@ -6,7 +6,7 @@ function Home() {
         </div>
 
 <div>
-        <img className="logo" src="https://cdn.glitch.global/176f9346-0233-4391-b270-cb8f1a0ee127/newyear%20%D0%BA4545%D0%BE%D0%BF%D0%B8%D1%8F.png?v=1671033428204"/>
+        <img className="logo" src="https://cdn.glitch.global/176f9346-0233-4391-b270-cb8f1a0ee127/newyear%20%D0%BA4545%D0%BE%D0%BF%D0%B8%D1%8F.png?v=1671033428204" alt="pic"/>
 </div>
         
         <div>

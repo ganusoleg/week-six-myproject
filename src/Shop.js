@@ -2,7 +2,7 @@ import { useState } from "react";
 import { data } from "./data";
 import Button from "./Button";
 import Shoes from "./Shoes";
-import { dataTwo } from "./dataTwo";
+
 
 function Shop() {
 
